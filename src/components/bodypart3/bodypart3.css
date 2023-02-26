@@ -1,0 +1,32 @@
+.bodypart3{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+   
+}
+.para4{
+    font-size: 1.4rem;
+    height: 70px;
+    font-weight: 800;
+    width: 80%;
+    display: flex;
+   align-items: center;
+   /* border: 2px solid red; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para5{
+    height: 100px;
+    /* border: 2px solid red; */
+    width: 80%; 
+    display: flex;
+    align-items: center;
+    /* margin-top: 30px; */
+}
+.para5 img{
+    height: 40px;
+    width: 100%; 
+}

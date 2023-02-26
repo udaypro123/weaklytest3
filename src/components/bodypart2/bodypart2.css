@@ -1,0 +1,44 @@
+.bodypart2{
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+   align-items: center;
+   position: relative;
+   z-index: 100;
+   /* bottom: 23%; */
+}
+
+.bodypart2child{
+    height: auto;
+    width:55%;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 70px;
+}
+.para1{
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para2{
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para3{
+    font-size: 1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 0px 60px;
+    color: white;
+}
+.btn{
+    height: 60px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    outline: none;
+    border: 2px solid white;
+    margin:40px 60px;
+}

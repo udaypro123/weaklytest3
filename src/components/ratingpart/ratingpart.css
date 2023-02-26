@@ -1,0 +1,64 @@
+
+.ratingdiv{ 
+width: 100%;
+background-color: rgb(24, 24, 24);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.ratingcompomain{
+    height: 500px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+.ratingcomo1{
+    height: 150px;
+    width: 100%;
+    background-color:rgb(25, 23, 23) ;
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    align-items: center;
+}
+.ratingcomo1part1{
+    font-size: 6rem;
+    height: auto;
+    width: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color: white;
+}
+.ratingcomo1part2{
+    height: auto;
+    width: 150px;
+    font-size: 2.7rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 20px;
+    color: white;
+    /* border: 2px solid red; */
+}
+.ratingcomo2 img{
+            height: 30px;
+            width: 100%;
+}
+.ratingcomo3{
+    height: 70px;
+    width: 70%;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+}
+.ratingcomo1part3 img{
+    height: 50px;
+    width: 50px;
+}
+.ratingcomo1part4{
+    font-size: 25px;
+}
