@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weaklytest3/static/css/main.592f5842.css",
+    "main.js": "/weaklytest3/static/js/main.675af21b.js",
+    "index.html": "/weaklytest3/index.html",
+    "main.592f5842.css.map": "/weaklytest3/static/css/main.592f5842.css.map",
+    "main.675af21b.js.map": "/weaklytest3/static/js/main.675af21b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.592f5842.css",
+    "static/js/main.675af21b.js"
+  ]
+}
